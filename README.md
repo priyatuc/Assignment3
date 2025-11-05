@@ -27,23 +27,26 @@ This repository contains implementations of two fundamental algorithms in Python
 **How to Run**
 
 1️⃣ Clone the Repository
-  git clone <your-repo-link>
-  cd Assignment3
+
+    git clone <your-repo-link>
+    cd Assignment3
 
 2️⃣ Run Randomized QuickSort
-  python RandomizedSort.py
+
+    python RandomizedSort.py
 
 3️⃣ Measure Runtime for Randomized QuickSort
-  python MeasureRunTime_QuickSort.py
+    
+    python MeasureRunTime_QuickSort.py
 
-Demonstrates runtime performance for different input sizes.
+    Demonstrates runtime performance for different input sizes.
 
 4️⃣ Run Hash Table with Chaining
-python hash_table.py
-
-Demonstrates insert, search, and delete operations.
-
-Outputs show the hash table before and after operations.
+    python hash_table.py
+    
+    Demonstrates insert, search, and delete operations.
+    
+    Outputs show the hash table before and after operations.
 
 **Notes**
 
