@@ -6,25 +6,26 @@ This repository contains implementations of two fundamental algorithms in Python
 
 🔹 Randomized Quicksort
 
-A sorting algorithm that selects a random pivot for partitioning.
-
-Recursively sorts subarrays to produce a fully sorted list.
-
-Random pivot selection reduces the likelihood of worst-case performance and improves efficiency on patterned datasets.
-
-The repository also includes a report analyzing the algorithm’s theoretical and empirical performance.
+  A sorting algorithm that selects a random pivot for partitioning.
+  
+  Recursively sorts subarrays to produce a fully sorted list.
+  
+  Random pivot selection reduces the likelihood of worst-case performance and improves efficiency on patterned datasets.
+  
+  The repository also includes a report analyzing the algorithm’s theoretical and empirical performance.
 
 🔹 Hash Table with Chaining
 
-Stores data in key-value pairs.
+  Stores data in key-value pairs.
+  
+  Handles collisions using chaining (each index holds a list of elements).
+  
+  Supports the following operations: insert, search, and delete.
+  
+  This implementation ensures efficient handling of collisions while maintaining fast average-case performance.
 
-Handles collisions using chaining (each index holds a list of elements).
+**How to Run**
 
-Supports the following operations: insert, search, and delete.
-
-This implementation ensures efficient handling of collisions while maintaining fast average-case performance.
-
-** How to Run**
 1️⃣ Clone the Repository
   git clone <your-repo-link>
   cd Assignment3
